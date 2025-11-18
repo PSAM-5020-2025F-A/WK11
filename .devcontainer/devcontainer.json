@@ -9,7 +9,8 @@
     "vscode": {
       "settings": {
         "extensions.autoCheckUpdates": false,
-        "extensions.autoUpdate": false
+        "extensions.autoUpdate": false,
+        "chat.disableAIFeatures": true
       },
       "extensions": [
         "ms-toolsai.jupyter@2025.7.0",
